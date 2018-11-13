@@ -1,4 +1,4 @@
-test2 webhook
+http://35.204.159.182:8080/job/new/badge/icon
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
