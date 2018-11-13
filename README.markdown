@@ -1,4 +1,4 @@
-http://35.204.159.182:8080/buildStatus/icon?job=new
+<a href='http://35.204.159.182:8080/job/new/'><img src='http://35.204.159.182:8080/buildStatus/icon?job=new'></a>
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
