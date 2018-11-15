@@ -1,1 +1,1 @@
-<localRepository>./.m2/repository</localRepository>
+<localRepository>${WORKSPACE}/.m2/repository</localRepository>
