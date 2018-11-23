@@ -41,7 +41,7 @@
                 <version>2.11</version>
                 <configuration>
                     <useSystemClassLoader>false</useSystemClassLoader>
-                    <skip>true</skip>
+                    <skip>false</skip>
                 </configuration>
                 <executions>
                     <execution>
