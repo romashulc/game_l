@@ -124,8 +124,8 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <storyType>html</storyType>
-                    <storyReport>target/easyb/easyb.html</storyReport>
+                    <storyType>xml</storyType>
+                    <storyReport>target/easyb/easyb.xml</storyReport>
                     <easybTestDirectory>src/test/stories</easybTestDirectory>
                     <jvmArguments>-Xmx512m -Dwebdriver.driver=${webdriver.driver}</jvmArguments>
                 </configuration>
@@ -160,8 +160,8 @@
                         </execution>
                     </executions>
                     <configuration>
-                        <storyType>html</storyType>                         l
-                        <storyReport>${basedir}/target/easyb/easyb-report.html
+                        <storyType>xml</storyType>                         l
+                        <storyReport>${basedir}/target/easyb/easyb-report.xml
                         </storyReport>
                     </configuration>
                 </plugin>
